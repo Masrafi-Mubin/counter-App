@@ -1,0 +1,5 @@
+package com.example.limtim
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
